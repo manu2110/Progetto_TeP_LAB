@@ -2,3 +2,4 @@
 2- riempila di acqua
 3- accendi il gas
 4- metti la pentola sul gas
+5- metti il coperchio
